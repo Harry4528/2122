@@ -39,7 +39,7 @@
 </head>
 <body>
   <div class="carta">
-      <h1>Perdoname, mi prinsesa</h1>
+      <h1>Perdoname, mi princesa</h1>
       <p>Hoy solo quiero hablarte desde lo mas profundo de mi corazon. Se que te hice sentir mal, y no hay nada que me duela mas que saber que te heri.
     </p>
     <p>No fue mi intencion, y lo lamento de verdad. Me importas mas de lo que las palabras pueden explicar, y cada dia contigo es algo que valoro muchisimo.</p>
